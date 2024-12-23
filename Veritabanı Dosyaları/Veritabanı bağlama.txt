@@ -1,0 +1,8 @@
+PROJEDE APPCONFİG DOSYASINDAKİ SERVER ADINI DEĞİŞTİRMENİZ GEREKİYOR 
+VERİTABANINI BAĞLAMAK İÇİN
+HEM SCRİPT HEMDE BAK DOSYASI VAR.
+UYGULAMA GİRİŞİ İÇİN DE 
+Admin/Yönetici olarak: 
+email=admin@gmail.com
+şifre:=admin1
+normal müşteri için de kayıt oluşturabilirsiniz direkt.

@@ -1,0 +1,164 @@
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\Veteriner_Takip_Otomasyonu.exe.config
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\Veteriner_Takip_Otomasyonu.exe
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\Veteriner_Takip_Otomasyonu.pdb
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.exe
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.pdb
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Form1.resources
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmFiyatSayfa.resources
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmGirisYap.resources
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmSifreUnuttumSayfasi.resources
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmKayitOl.resources
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmMusteriler.resources
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmEvcilHayvanlar.resources
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmRandevular.resources
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmFaturalarveÖdemeler.resources
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmAşıTakvimi.resources
+C:\Users\DELL\source\repos\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmÜrünler.resources
+D:\Veteriner_Takip_Otomasyonu\bin\Debug\Veteriner_Takip_Otomasyonu.exe.config
+D:\Veteriner_Takip_Otomasyonu\bin\Debug\Veteriner_Takip_Otomasyonu.exe
+D:\Veteriner_Takip_Otomasyonu\bin\Debug\Veteriner_Takip_Otomasyonu.pdb
+D:\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.csproj.AssemblyReference.cache
+D:\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Form1.resources
+D:\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmAşıTakvimi.resources
+D:\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmEvcilHayvanlar.resources
+D:\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmFaturalarveÖdemeler.resources
+D:\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmFiyatSayfa.resources
+D:\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmGirisYap.resources
+D:\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmKayitOl.resources
+D:\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmMusteriler.resources
+D:\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmRandevular.resources
+D:\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmSifreUnuttumSayfasi.resources
+D:\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmÜrünler.resources
+D:\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Properties.Resources.resources
+D:\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.csproj.GenerateResource.cache
+D:\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.csproj.CoreCompileInputs.cache
+D:\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.exe
+D:\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.pdb
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\Veteriner_Takip_Otomasyonu.exe.config
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\Veteriner_Takip_Otomasyonu.exe
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\Veteriner_Takip_Otomasyonu.pdb
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Form1.resources
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmAşıTakvimi.resources
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmEvcilHayvanlar.resources
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmFaturalarveÖdemeler.resources
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmFiyatSayfa.resources
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmGirisYap.resources
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmKayitOl.resources
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmMusteriler.resources
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmRandevular.resources
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmSifreUnuttumSayfasi.resources
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmÜrünler.resources
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.exe
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.pdb
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmAnaEkran.resources
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmEvcilHayvanEkleme.resources
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veterine.E85D9E63.Up2Date
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmEvcilHayvanBilgileriGoruntule.resources
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmRandevuEkle.resources
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmAdminEvcilEkle.resources
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmAdminÜrünEkle.resources
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Main.resources
+C:\Users\USER\Documents\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmUrunDuzenle.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\Veteriner_Takip_Otomasyonu.exe.config
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\Veteriner_Takip_Otomasyonu.exe
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\Veteriner_Takip_Otomasyonu.pdb
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.csproj.AssemblyReference.cache
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Form1.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmAdminEvcilEkle.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmAdminÜrünEkle.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmAnaEkran.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmAşıTakvimi.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmEvcilHayvanBilgileriGoruntule.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmEvcilHayvanEkleme.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmEvcilHayvanlar.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmFaturalarveÖdemeler.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmFiyatSayfa.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmGirisYap.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmKayitOl.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmMusteriler.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmRandevuEkle.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmRandevular.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmSifreUnuttumSayfasi.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmUrunDuzenle.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmÜrünler.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Main.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Properties.Resources.resources
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.csproj.GenerateResource.cache
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.csproj.CoreCompileInputs.cache
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veterine.E85D9E63.Up2Date
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.exe
+D:\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.pdb
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\Veteriner_Takip_Otomasyonu.exe.config
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\Veteriner_Takip_Otomasyonu.exe
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\Veteriner_Takip_Otomasyonu.pdb
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Form1.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmAdminEvcilEkle.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmAdminÜrünEkle.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmAnaEkran.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmAşıTakvimi.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmEvcilHayvanBilgileriGoruntule.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmEvcilHayvanEkleme.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmEvcilHayvanlar.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmFaturalarveÖdemeler.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmFiyatSayfa.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmGirisYap.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmKayitOl.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmMusteriler.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmRandevuEkle.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmRandevular.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmSifreUnuttumSayfasi.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmUrunDuzenle.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmÜrünler.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Main.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veterine.E85D9E63.Up2Date
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.exe
+C:\Users\DELL\OneDrive - isik.edu.tr\Masaüstü\veterinerlik proje18_12\veterinerlik proje\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.pdb
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\Veteriner_Takip_Otomasyonu.exe.config
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\Veteriner_Takip_Otomasyonu.exe
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\Veteriner_Takip_Otomasyonu.pdb
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Form1.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmAdminEvcilEkle.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmAdminÜrünEkle.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmAnaEkran.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmAşıTakvimi.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmEvcilHayvanBilgileriGoruntule.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmEvcilHayvanEkleme.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmEvcilHayvanlar.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmFaturalarveÖdemeler.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmFiyatSayfa.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmGirisYap.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmKayitOl.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmMusteriler.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmRandevuEkle.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmRandevular.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmSifreUnuttumSayfasi.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmUrunDuzenle.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.frmÜrünler.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Main.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.Properties.Resources.resources
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veterine.E85D9E63.Up2Date
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.exe
+C:\Users\USER\Downloads\en\Veteriner_Takip_Otomasyonu\Veteriner_Takip_Otomasyonu\obj\Debug\Veteriner_Takip_Otomasyonu.pdb
